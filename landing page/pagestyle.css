@@ -61,7 +61,7 @@ body {
 .home {
     text-align: center;
     width: 100%;
-    background-image: url('./https://img.freepik.com/free-photo/fast-food-dish-blue_155003-27518.jpg');
+    background-image: url('./landing page/images/Savorbite.png');
     justify-content: space-between;
     height: 100vh;
     background-size: cover;
@@ -96,7 +96,7 @@ body {
     text-align: center;
     padding: 80px 0;
     background-color: #636eb7; 
-    margin-top:10%;
+    margin-top:15%;
 }
 .about .container {
     max-width: 800px;
@@ -134,7 +134,7 @@ body {
 .Menu h2 {
     font-size: 36px;
     color: #edebeb; 
-    margin-top: 50px;
+    margin-top: 55px;
 }
 
 .menu-items {
