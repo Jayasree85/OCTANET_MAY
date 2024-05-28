@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('Todolist/images/Background1.jpg');
+    background-image: url('./images/Background1.jpg');
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -135,7 +135,7 @@ ul li::before {
     height: 30px;
     width: 30px;
     border-radius: 50%;
-    background: url('Todolist/images/unchecked.jpg');
+    background: url('./images/unchecked.jpg');
     background-size: cover;
     background-position: center;
     margin-right: 10px;
@@ -149,7 +149,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background: url('Todolist/images/checked1.jpg');
+    background: url('./images/checked1.jpg');
     background-size: cover;
 }
 
