@@ -61,7 +61,7 @@ body {
 .home {
     text-align: center;
     width: 100%;
-    background-image: url('landing page/images/landing.jpg');
+    background-image: url('./landing page/images/Menu1.jpg');
     justify-content: space-between;
     height: 100vh;
     background-size: cover;
